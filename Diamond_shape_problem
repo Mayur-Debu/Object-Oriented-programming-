@@ -1,0 +1,6 @@
+Basically Diamond shape problem is occured in the multiple inhertance.
+In a nutshell diamond shape problem is nothing but the confusion generated from inheriting multiple classes.
+Python's syntax for multiple inheritance however, make's it lot more easier to tackle the diamond problem, But language like c++
+generates errors.
+
+JAVA DONOT SUPPORT MULTIPLE INHERITANCE.

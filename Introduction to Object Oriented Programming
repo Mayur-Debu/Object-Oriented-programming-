@@ -1,0 +1,11 @@
+
+#classes are nothing but a template to a particular peice of code that can be reused with the help of the object.
+
+#Object: It is nothing but a instance of the class.
+
+For example: If we write a email, we use a template for that purpose, then in this example:
+Class: Template.
+Object: Name and roll no that you fill in the email template
+
+Object Oriented Programming uses the "DRY" concept which means, "Do not Repeat Yourself".
+
